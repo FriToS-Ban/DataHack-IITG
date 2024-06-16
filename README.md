@@ -1,1 +1,1 @@
-# DataHack-IITG
+This project predicts the likelihood of individuals receiving the xyz and seasonal flu vaccines using a multilabel classification approach. It utilizes a dataset with 35 features covering demographics, health status, behaviors, and opinions. Models evaluated include Logistic Regression, Random Forest, Gradient Boosting, SVM, and Naive Bayes variants.
